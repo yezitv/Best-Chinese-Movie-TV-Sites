@@ -6,7 +6,7 @@ A bilingual list of **Chinese and international movie streaming & review sites**
 ---
 
 ## 📺 Featured Sites / 推荐站点
-- [laoyuefu.com](https://laoyuefu.com.com) — 中文影视播放、影评与榜单  
+- [218m.com](https://218m.com.com) — 中文影视播放、影评与榜单  
 
 
 ---
@@ -18,7 +18,7 @@ This repo bridges Chinese and international movie platforms for global audiences
 ---
 
 ## 🔗 Visit Main Site / 访问主站  
-👉 [https://laoyuefu.com.com](https://laoyuefu.com.com)
+👉 [https://218m.com.com](https://218m.com.com)
 
 ---
 
